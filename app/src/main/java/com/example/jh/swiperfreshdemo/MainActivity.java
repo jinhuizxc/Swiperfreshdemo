@@ -9,6 +9,8 @@ import android.widget.Button;
 /**
  * 作者：jinhui on 2017/3/20
  * 邮箱：1004260403@qq.com
+ *
+ * 下拉刷新 + 对下拉动作的刷新监听setOnRefreshListener， handler进行数据的更新
  */
 
 
